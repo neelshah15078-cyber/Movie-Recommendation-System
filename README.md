@@ -3,10 +3,10 @@
 Movie Recommendation System using Machine Learning and Content-Based Filtering.
 
 # Features
-- Movie recommendation using TF-IDF
-- Cosine similarity based suggestion
-- Dynamic movie addition
-- CSV dataset support
+- Movie recommendation using TF-IDF text vectorization
+- Cosine similarity based movie suggestions
+- Dynamic movie addition and dataset update
+- CSV based dataset management
 
 # Technologies Used
 - Python
